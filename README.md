@@ -15,7 +15,7 @@ python3-software-properties python3-update-manager
 software-properties-common sosreport systemd systemd-sysv udev
 update-manager-core zabbix-agent zabbix-frontend-php zabbix-server-mysql
 
-The following needs to be REMOVED:
+The following can be REMOVED:
 linux-headers-4.15.0-20 linux-headers-4.15.0-20-generic
 linux-image-4.15.0-20-generic linux-modules-4.15.0-20-generic
 linux-modules-extra-4.15.0-20-generic
